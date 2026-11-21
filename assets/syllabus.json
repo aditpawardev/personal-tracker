@@ -1,0 +1,3481 @@
+{
+  "syllabusVersion": 1,
+  "sources": {
+    "docx": {
+      "file": "indexing___1_.docx",
+      "sha256": "99d931ded96ef2dc8766594120a89f37758a9bfb4c7b3b7c669daf60222d0a93",
+      "usedFor": [
+        "aptitude",
+        "dsa",
+        "tech-interview"
+      ]
+    },
+    "brief": {
+      "file": "brief-section7.md",
+      "sha256": "b59185726dddfc00d2dc9ed11826ac8b9f652025d97fb4b52a5a1927c45c2c87",
+      "usedFor": [
+        "gk"
+      ]
+    }
+  },
+  "sections": [
+    {
+      "id": "aptitude",
+      "name": "Aptitude",
+      "source": "docx",
+      "groups": [],
+      "topics": [
+        {
+          "id": "aptitude/quantitative-aptitude",
+          "name": "Quantitative Aptitude",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "aptitude/quantitative-aptitude/number-system",
+              "name": "Number System"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/divisibility-rules",
+              "name": "Divisibility Rules"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/hcf-and-lcm",
+              "name": "HCF and LCM"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/simplification",
+              "name": "Simplification"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/fractions-and-decimals",
+              "name": "Fractions and Decimals"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/percentages",
+              "name": "Percentages"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/ratio-and-proportion",
+              "name": "Ratio and Proportion"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/average",
+              "name": "Average"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/profit-loss-and-discount",
+              "name": "Profit, Loss and Discount"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/simple-interest",
+              "name": "Simple Interest"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/compound-interest",
+              "name": "Compound Interest"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/mixtures-and-alligation",
+              "name": "Mixtures and Alligation"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/partnership",
+              "name": "Partnership"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/problems-on-ages",
+              "name": "Problems on Ages"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/time-and-work",
+              "name": "Time and Work"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/pipes-and-cisterns",
+              "name": "Pipes and Cisterns"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/time-speed-and-distance",
+              "name": "Time, Speed and Distance"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/trains",
+              "name": "Trains"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/boats-and-streams",
+              "name": "Boats and Streams"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/races",
+              "name": "Races"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/algebra",
+              "name": "Algebra"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/linear-equations",
+              "name": "Linear Equations"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/quadratic-equations",
+              "name": "Quadratic Equations"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/inequalities",
+              "name": "Inequalities"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/geometry",
+              "name": "Geometry"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/mensuration",
+              "name": "Mensuration"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/permutation-and-combination",
+              "name": "Permutation and Combination"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/probability",
+              "name": "Probability"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/set-theory",
+              "name": "Set Theory"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/sequences-and-series",
+              "name": "Sequences and Series"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/logarithms",
+              "name": "Logarithms"
+            },
+            {
+              "id": "aptitude/quantitative-aptitude/surds-and-indices",
+              "name": "Surds and Indices"
+            }
+          ]
+        },
+        {
+          "id": "aptitude/logical-reasoning",
+          "name": "Logical Reasoning",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "aptitude/logical-reasoning/number-series",
+              "name": "Number Series"
+            },
+            {
+              "id": "aptitude/logical-reasoning/alphabet-series",
+              "name": "Alphabet Series"
+            },
+            {
+              "id": "aptitude/logical-reasoning/alphanumeric-series",
+              "name": "Alphanumeric Series"
+            },
+            {
+              "id": "aptitude/logical-reasoning/coding-and-decoding",
+              "name": "Coding and Decoding"
+            },
+            {
+              "id": "aptitude/logical-reasoning/blood-relations",
+              "name": "Blood Relations"
+            },
+            {
+              "id": "aptitude/logical-reasoning/direction-sense",
+              "name": "Direction Sense"
+            },
+            {
+              "id": "aptitude/logical-reasoning/ranking-and-ordering",
+              "name": "Ranking and Ordering"
+            },
+            {
+              "id": "aptitude/logical-reasoning/seating-arrangements",
+              "name": "Seating Arrangements"
+            },
+            {
+              "id": "aptitude/logical-reasoning/linear-arrangements",
+              "name": "Linear Arrangements"
+            },
+            {
+              "id": "aptitude/logical-reasoning/circular-arrangements",
+              "name": "Circular Arrangements"
+            },
+            {
+              "id": "aptitude/logical-reasoning/puzzles",
+              "name": "Puzzles"
+            },
+            {
+              "id": "aptitude/logical-reasoning/floor-based-puzzles",
+              "name": "Floor-Based Puzzles"
+            },
+            {
+              "id": "aptitude/logical-reasoning/syllogisms",
+              "name": "Syllogisms"
+            },
+            {
+              "id": "aptitude/logical-reasoning/statement-and-conclusion",
+              "name": "Statement and Conclusion"
+            },
+            {
+              "id": "aptitude/logical-reasoning/statement-and-assumption",
+              "name": "Statement and Assumption"
+            },
+            {
+              "id": "aptitude/logical-reasoning/statement-and-argument",
+              "name": "Statement and Argument"
+            },
+            {
+              "id": "aptitude/logical-reasoning/cause-and-effect",
+              "name": "Cause and Effect"
+            },
+            {
+              "id": "aptitude/logical-reasoning/analogy",
+              "name": "Analogy"
+            },
+            {
+              "id": "aptitude/logical-reasoning/classification-and-odd-one-out",
+              "name": "Classification and Odd One Out"
+            },
+            {
+              "id": "aptitude/logical-reasoning/venn-diagrams",
+              "name": "Venn Diagrams"
+            },
+            {
+              "id": "aptitude/logical-reasoning/clocks",
+              "name": "Clocks"
+            },
+            {
+              "id": "aptitude/logical-reasoning/calendars",
+              "name": "Calendars"
+            },
+            {
+              "id": "aptitude/logical-reasoning/input-output",
+              "name": "Input-Output"
+            },
+            {
+              "id": "aptitude/logical-reasoning/data-sufficiency",
+              "name": "Data Sufficiency"
+            },
+            {
+              "id": "aptitude/logical-reasoning/mathematical-operations",
+              "name": "Mathematical Operations"
+            },
+            {
+              "id": "aptitude/logical-reasoning/inequalities",
+              "name": "Inequalities"
+            },
+            {
+              "id": "aptitude/logical-reasoning/non-verbal-reasoning",
+              "name": "Non-Verbal Reasoning"
+            },
+            {
+              "id": "aptitude/logical-reasoning/cubes-and-dice",
+              "name": "Cubes and Dice"
+            }
+          ]
+        },
+        {
+          "id": "aptitude/verbal-ability",
+          "name": "Verbal Ability",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "aptitude/verbal-ability/parts-of-speech",
+              "name": "Parts of Speech"
+            },
+            {
+              "id": "aptitude/verbal-ability/nouns-and-pronouns",
+              "name": "Nouns and Pronouns"
+            },
+            {
+              "id": "aptitude/verbal-ability/verbs-and-tenses",
+              "name": "Verbs and Tenses"
+            },
+            {
+              "id": "aptitude/verbal-ability/subject-verb-agreement",
+              "name": "Subject-Verb Agreement"
+            },
+            {
+              "id": "aptitude/verbal-ability/articles",
+              "name": "Articles"
+            },
+            {
+              "id": "aptitude/verbal-ability/prepositions",
+              "name": "Prepositions"
+            },
+            {
+              "id": "aptitude/verbal-ability/conjunctions",
+              "name": "Conjunctions"
+            },
+            {
+              "id": "aptitude/verbal-ability/adjectives-and-adverbs",
+              "name": "Adjectives and Adverbs"
+            },
+            {
+              "id": "aptitude/verbal-ability/active-and-passive-voice",
+              "name": "Active and Passive Voice"
+            },
+            {
+              "id": "aptitude/verbal-ability/direct-and-indirect-speech",
+              "name": "Direct and Indirect Speech"
+            },
+            {
+              "id": "aptitude/verbal-ability/sentence-correction",
+              "name": "Sentence Correction"
+            },
+            {
+              "id": "aptitude/verbal-ability/error-spotting",
+              "name": "Error Spotting"
+            },
+            {
+              "id": "aptitude/verbal-ability/sentence-completion",
+              "name": "Sentence Completion"
+            },
+            {
+              "id": "aptitude/verbal-ability/fill-in-the-blanks",
+              "name": "Fill in the Blanks"
+            },
+            {
+              "id": "aptitude/verbal-ability/synonyms",
+              "name": "Synonyms"
+            },
+            {
+              "id": "aptitude/verbal-ability/antonyms",
+              "name": "Antonyms"
+            },
+            {
+              "id": "aptitude/verbal-ability/one-word-substitution",
+              "name": "One-Word Substitution"
+            },
+            {
+              "id": "aptitude/verbal-ability/idioms-and-phrases",
+              "name": "Idioms and Phrases"
+            },
+            {
+              "id": "aptitude/verbal-ability/phrasal-verbs",
+              "name": "Phrasal Verbs"
+            },
+            {
+              "id": "aptitude/verbal-ability/reading-comprehension",
+              "name": "Reading Comprehension"
+            },
+            {
+              "id": "aptitude/verbal-ability/para-jumbles",
+              "name": "Para Jumbles"
+            },
+            {
+              "id": "aptitude/verbal-ability/cloze-tests",
+              "name": "Cloze Tests"
+            },
+            {
+              "id": "aptitude/verbal-ability/paragraph-completion",
+              "name": "Paragraph Completion"
+            },
+            {
+              "id": "aptitude/verbal-ability/sentence-rearrangement",
+              "name": "Sentence Rearrangement"
+            },
+            {
+              "id": "aptitude/verbal-ability/vocabulary-in-context",
+              "name": "Vocabulary in Context"
+            }
+          ]
+        },
+        {
+          "id": "aptitude/data-interpretation",
+          "name": "Data Interpretation",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "aptitude/data-interpretation/tables",
+              "name": "Tables"
+            },
+            {
+              "id": "aptitude/data-interpretation/bar-graphs",
+              "name": "Bar Graphs"
+            },
+            {
+              "id": "aptitude/data-interpretation/line-graphs",
+              "name": "Line Graphs"
+            },
+            {
+              "id": "aptitude/data-interpretation/pie-charts",
+              "name": "Pie Charts"
+            },
+            {
+              "id": "aptitude/data-interpretation/histograms",
+              "name": "Histograms"
+            },
+            {
+              "id": "aptitude/data-interpretation/mixed-graphs",
+              "name": "Mixed Graphs"
+            },
+            {
+              "id": "aptitude/data-interpretation/caselet-based-interpretation",
+              "name": "Caselet-Based Interpretation"
+            },
+            {
+              "id": "aptitude/data-interpretation/data-comparison",
+              "name": "Data Comparison"
+            },
+            {
+              "id": "aptitude/data-interpretation/percentage-based-interpretation",
+              "name": "Percentage-Based Interpretation"
+            },
+            {
+              "id": "aptitude/data-interpretation/ratio-based-interpretation",
+              "name": "Ratio-Based Interpretation"
+            },
+            {
+              "id": "aptitude/data-interpretation/missing-data-interpretation",
+              "name": "Missing Data Interpretation"
+            },
+            {
+              "id": "aptitude/data-interpretation/data-sufficiency",
+              "name": "Data Sufficiency"
+            },
+            {
+              "id": "aptitude/data-interpretation/mean-median-and-mode",
+              "name": "Mean, Median and Mode"
+            },
+            {
+              "id": "aptitude/data-interpretation/weighted-averages",
+              "name": "Weighted Averages"
+            }
+          ]
+        },
+        {
+          "id": "aptitude/analytical-and-critical-reasoning",
+          "name": "Analytical and Critical Reasoning",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/deductive-reasoning",
+              "name": "Deductive Reasoning"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/inductive-reasoning",
+              "name": "Inductive Reasoning"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/logical-deductions",
+              "name": "Logical Deductions"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/identifying-assumptions",
+              "name": "Identifying Assumptions"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/evaluating-arguments",
+              "name": "Evaluating Arguments"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/strengthening-and-weakening-arguments",
+              "name": "Strengthening and Weakening Arguments"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/drawing-conclusions",
+              "name": "Drawing Conclusions"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/decision-making",
+              "name": "Decision Making"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/problem-solving-caselets",
+              "name": "Problem-Solving Caselets"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/situational-judgement",
+              "name": "Situational Judgement"
+            },
+            {
+              "id": "aptitude/analytical-and-critical-reasoning/logical-fallacies",
+              "name": "Logical Fallacies"
+            }
+          ]
+        },
+        {
+          "id": "aptitude/non-verbal-and-spatial-reasoning",
+          "name": "Non-Verbal and Spatial Reasoning",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/figure-series",
+              "name": "Figure Series"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/figure-analogy",
+              "name": "Figure Analogy"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/figure-classification",
+              "name": "Figure Classification"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/mirror-images",
+              "name": "Mirror Images"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/water-images",
+              "name": "Water Images"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/paper-folding",
+              "name": "Paper Folding"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/paper-cutting",
+              "name": "Paper Cutting"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/embedded-figures",
+              "name": "Embedded Figures"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/figure-completion",
+              "name": "Figure Completion"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/rotation-of-figures",
+              "name": "Rotation of Figures"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/spatial-orientation",
+              "name": "Spatial Orientation"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/cube-visualization",
+              "name": "Cube Visualization"
+            },
+            {
+              "id": "aptitude/non-verbal-and-spatial-reasoning/dice-visualization",
+              "name": "Dice Visualization"
+            }
+          ]
+        },
+        {
+          "id": "aptitude/computer-and-technical-aptitude",
+          "name": "Computer and Technical Aptitude",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "aptitude/computer-and-technical-aptitude/computer-fundamentals",
+              "name": "Computer Fundamentals"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/operating-systems-basics",
+              "name": "Operating Systems Basics"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/computer-networks-basics",
+              "name": "Computer Networks Basics"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/database-fundamentals",
+              "name": "Database Fundamentals"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/dbms-concepts",
+              "name": "DBMS Concepts"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/sql-fundamentals",
+              "name": "SQL Fundamentals"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/programming-logic",
+              "name": "Programming Logic"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/flowcharts",
+              "name": "Flowcharts"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/pseudocode",
+              "name": "Pseudocode"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/number-systems-and-binary-arithmetic",
+              "name": "Number Systems and Binary Arithmetic"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/basic-data-structures",
+              "name": "Basic Data Structures"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/output-prediction",
+              "name": "Output Prediction"
+            },
+            {
+              "id": "aptitude/computer-and-technical-aptitude/debugging-and-error-identification",
+              "name": "Debugging and Error Identification"
+            }
+          ]
+        },
+        {
+          "id": "aptitude/psychometric-and-workplace-aptitude",
+          "name": "Psychometric and Workplace Aptitude",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "aptitude/psychometric-and-workplace-aptitude/personality-assessment",
+              "name": "Personality Assessment"
+            },
+            {
+              "id": "aptitude/psychometric-and-workplace-aptitude/situational-judgement-tests",
+              "name": "Situational Judgement Tests"
+            },
+            {
+              "id": "aptitude/psychometric-and-workplace-aptitude/workplace-decision-making",
+              "name": "Workplace Decision Making"
+            },
+            {
+              "id": "aptitude/psychometric-and-workplace-aptitude/teamwork-scenarios",
+              "name": "Teamwork Scenarios"
+            },
+            {
+              "id": "aptitude/psychometric-and-workplace-aptitude/time-management-scenarios",
+              "name": "Time Management Scenarios"
+            },
+            {
+              "id": "aptitude/psychometric-and-workplace-aptitude/conflict-resolution",
+              "name": "Conflict Resolution"
+            },
+            {
+              "id": "aptitude/psychometric-and-workplace-aptitude/ethical-decision-making",
+              "name": "Ethical Decision Making"
+            },
+            {
+              "id": "aptitude/psychometric-and-workplace-aptitude/attention-to-detail",
+              "name": "Attention to Detail"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsa",
+      "name": "DSA / LeetCode",
+      "source": "docx",
+      "groups": [],
+      "topics": [
+        {
+          "id": "dsa/programming-fundamentals",
+          "name": "Programming Fundamentals",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [
+            {
+              "text": "Before DSA, make sure you understand these concepts.",
+              "placement": "before"
+            }
+          ],
+          "subtopics": [
+            {
+              "id": "dsa/programming-fundamentals/variables-and-data-types",
+              "name": "Variables and Data Types"
+            },
+            {
+              "id": "dsa/programming-fundamentals/operators",
+              "name": "Operators"
+            },
+            {
+              "id": "dsa/programming-fundamentals/conditional-statements",
+              "name": "Conditional Statements"
+            },
+            {
+              "id": "dsa/programming-fundamentals/loops",
+              "name": "Loops"
+            },
+            {
+              "id": "dsa/programming-fundamentals/functions",
+              "name": "Functions"
+            },
+            {
+              "id": "dsa/programming-fundamentals/recursion-basics",
+              "name": "Recursion Basics"
+            },
+            {
+              "id": "dsa/programming-fundamentals/arrays-and-strings",
+              "name": "Arrays and Strings"
+            },
+            {
+              "id": "dsa/programming-fundamentals/pointers-and-references",
+              "name": "Pointers and References"
+            },
+            {
+              "id": "dsa/programming-fundamentals/classes-and-objects",
+              "name": "Classes and Objects"
+            },
+            {
+              "id": "dsa/programming-fundamentals/basic-input-output",
+              "name": "Basic Input/Output"
+            },
+            {
+              "id": "dsa/programming-fundamentals/time-complexity",
+              "name": "Time Complexity"
+            },
+            {
+              "id": "dsa/programming-fundamentals/space-complexity",
+              "name": "Space Complexity"
+            },
+            {
+              "id": "dsa/programming-fundamentals/big-o-notation",
+              "name": "Big O Notation"
+            },
+            {
+              "id": "dsa/programming-fundamentals/best-average-and-worst-case-analysis",
+              "name": "Best, Average and Worst Case Analysis"
+            }
+          ]
+        },
+        {
+          "id": "dsa/arrays",
+          "name": "Arrays",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/arrays/array-traversal",
+              "name": "Array Traversal"
+            },
+            {
+              "id": "dsa/arrays/insertion-and-deletion",
+              "name": "Insertion and Deletion"
+            },
+            {
+              "id": "dsa/arrays/finding-maximum-and-minimum",
+              "name": "Finding Maximum and Minimum"
+            },
+            {
+              "id": "dsa/arrays/reversing-an-array",
+              "name": "Reversing an Array"
+            },
+            {
+              "id": "dsa/arrays/second-largest-element",
+              "name": "Second Largest Element"
+            },
+            {
+              "id": "dsa/arrays/removing-duplicates",
+              "name": "Removing Duplicates"
+            },
+            {
+              "id": "dsa/arrays/left-and-right-rotation",
+              "name": "Left and Right Rotation"
+            },
+            {
+              "id": "dsa/arrays/moving-zeroes",
+              "name": "Moving Zeroes"
+            },
+            {
+              "id": "dsa/arrays/missing-number",
+              "name": "Missing Number"
+            },
+            {
+              "id": "dsa/arrays/single-number",
+              "name": "Single Number"
+            },
+            {
+              "id": "dsa/arrays/two-sum",
+              "name": "Two Sum"
+            },
+            {
+              "id": "dsa/arrays/best-time-to-buy-and-sell-stock",
+              "name": "Best Time to Buy and Sell Stock"
+            },
+            {
+              "id": "dsa/arrays/kadanes-algorithm",
+              "name": "Kadane's Algorithm"
+            },
+            {
+              "id": "dsa/arrays/maximum-subarray",
+              "name": "Maximum Subarray"
+            },
+            {
+              "id": "dsa/arrays/prefix-sum",
+              "name": "Prefix Sum"
+            },
+            {
+              "id": "dsa/arrays/subarray-sum",
+              "name": "Subarray Sum"
+            },
+            {
+              "id": "dsa/arrays/majority-element",
+              "name": "Majority Element"
+            },
+            {
+              "id": "dsa/arrays/rearranging-array-elements",
+              "name": "Rearranging Array Elements"
+            },
+            {
+              "id": "dsa/arrays/merge-sorted-arrays",
+              "name": "Merge Sorted Arrays"
+            },
+            {
+              "id": "dsa/arrays/product-of-array-except-self",
+              "name": "Product of Array Except Self"
+            }
+          ]
+        },
+        {
+          "id": "dsa/strings",
+          "name": "Strings",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/strings/string-traversal",
+              "name": "String Traversal"
+            },
+            {
+              "id": "dsa/strings/string-reversal",
+              "name": "String Reversal"
+            },
+            {
+              "id": "dsa/strings/palindrome-checking",
+              "name": "Palindrome Checking"
+            },
+            {
+              "id": "dsa/strings/anagram-checking",
+              "name": "Anagram Checking"
+            },
+            {
+              "id": "dsa/strings/character-frequency-counting",
+              "name": "Character Frequency Counting"
+            },
+            {
+              "id": "dsa/strings/duplicate-characters",
+              "name": "Duplicate Characters"
+            },
+            {
+              "id": "dsa/strings/first-non-repeating-character",
+              "name": "First Non-Repeating Character"
+            },
+            {
+              "id": "dsa/strings/valid-palindrome",
+              "name": "Valid Palindrome"
+            },
+            {
+              "id": "dsa/strings/valid-anagram",
+              "name": "Valid Anagram"
+            },
+            {
+              "id": "dsa/strings/longest-common-prefix",
+              "name": "Longest Common Prefix"
+            },
+            {
+              "id": "dsa/strings/string-compression",
+              "name": "String Compression"
+            },
+            {
+              "id": "dsa/strings/reverse-words-in-a-string",
+              "name": "Reverse Words in a String"
+            },
+            {
+              "id": "dsa/strings/longest-substring-without-repeating-characters",
+              "name": "Longest Substring Without Repeating Characters"
+            },
+            {
+              "id": "dsa/strings/longest-palindromic-substring",
+              "name": "Longest Palindromic Substring"
+            },
+            {
+              "id": "dsa/strings/string-matching-basics",
+              "name": "String Matching Basics"
+            }
+          ]
+        },
+        {
+          "id": "dsa/searching-and-sorting",
+          "name": "Searching and Sorting",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/searching-and-sorting/linear-search",
+              "name": "Linear Search"
+            },
+            {
+              "id": "dsa/searching-and-sorting/binary-search",
+              "name": "Binary Search"
+            },
+            {
+              "id": "dsa/searching-and-sorting/lower-bound-and-upper-bound",
+              "name": "Lower Bound and Upper Bound"
+            },
+            {
+              "id": "dsa/searching-and-sorting/first-and-last-occurrence",
+              "name": "First and Last Occurrence"
+            },
+            {
+              "id": "dsa/searching-and-sorting/search-insert-position",
+              "name": "Search Insert Position"
+            },
+            {
+              "id": "dsa/searching-and-sorting/search-in-rotated-sorted-array",
+              "name": "Search in Rotated Sorted Array"
+            },
+            {
+              "id": "dsa/searching-and-sorting/find-peak-element",
+              "name": "Find Peak Element"
+            },
+            {
+              "id": "dsa/searching-and-sorting/bubble-sort",
+              "name": "Bubble Sort"
+            },
+            {
+              "id": "dsa/searching-and-sorting/selection-sort",
+              "name": "Selection Sort"
+            },
+            {
+              "id": "dsa/searching-and-sorting/insertion-sort",
+              "name": "Insertion Sort"
+            },
+            {
+              "id": "dsa/searching-and-sorting/merge-sort",
+              "name": "Merge Sort"
+            },
+            {
+              "id": "dsa/searching-and-sorting/quick-sort",
+              "name": "Quick Sort"
+            },
+            {
+              "id": "dsa/searching-and-sorting/counting-sort",
+              "name": "Counting Sort"
+            },
+            {
+              "id": "dsa/searching-and-sorting/sorting-by-custom-conditions",
+              "name": "Sorting by Custom Conditions"
+            },
+            {
+              "id": "dsa/searching-and-sorting/kth-largest-element",
+              "name": "Kth Largest Element"
+            },
+            {
+              "id": "dsa/searching-and-sorting/kth-smallest-element",
+              "name": "Kth Smallest Element"
+            }
+          ]
+        },
+        {
+          "id": "dsa/hashing",
+          "name": "Hashing",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/hashing/hash-maps",
+              "name": "Hash Maps"
+            },
+            {
+              "id": "dsa/hashing/hash-sets",
+              "name": "Hash Sets"
+            },
+            {
+              "id": "dsa/hashing/frequency-counting",
+              "name": "Frequency Counting"
+            },
+            {
+              "id": "dsa/hashing/duplicate-detection",
+              "name": "Duplicate Detection"
+            },
+            {
+              "id": "dsa/hashing/two-sum-using-hashing",
+              "name": "Two Sum Using Hashing"
+            },
+            {
+              "id": "dsa/hashing/group-anagrams",
+              "name": "Group Anagrams"
+            },
+            {
+              "id": "dsa/hashing/intersection-of-arrays",
+              "name": "Intersection of Arrays"
+            },
+            {
+              "id": "dsa/hashing/longest-consecutive-sequence",
+              "name": "Longest Consecutive Sequence"
+            },
+            {
+              "id": "dsa/hashing/subarray-sum-equals-k",
+              "name": "Subarray Sum Equals K"
+            },
+            {
+              "id": "dsa/hashing/first-unique-element",
+              "name": "First Unique Element"
+            },
+            {
+              "id": "dsa/hashing/hashing-with-prefix-sum",
+              "name": "Hashing with Prefix Sum"
+            }
+          ]
+        },
+        {
+          "id": "dsa/two-pointers",
+          "name": "Two Pointers",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/two-pointers/opposite-direction-two-pointers",
+              "name": "Opposite Direction Two Pointers"
+            },
+            {
+              "id": "dsa/two-pointers/same-direction-two-pointers",
+              "name": "Same Direction Two Pointers"
+            },
+            {
+              "id": "dsa/two-pointers/pair-sum-in-sorted-array",
+              "name": "Pair Sum in Sorted Array"
+            },
+            {
+              "id": "dsa/two-pointers/remove-duplicates-from-sorted-array",
+              "name": "Remove Duplicates from Sorted Array"
+            },
+            {
+              "id": "dsa/two-pointers/move-zeroes",
+              "name": "Move Zeroes"
+            },
+            {
+              "id": "dsa/two-pointers/container-with-most-water",
+              "name": "Container With Most Water"
+            },
+            {
+              "id": "dsa/two-pointers/three-sum",
+              "name": "Three Sum"
+            },
+            {
+              "id": "dsa/two-pointers/four-sum",
+              "name": "Four Sum"
+            },
+            {
+              "id": "dsa/two-pointers/trapping-rain-water",
+              "name": "Trapping Rain Water"
+            },
+            {
+              "id": "dsa/two-pointers/merging-sorted-arrays",
+              "name": "Merging Sorted Arrays"
+            }
+          ]
+        },
+        {
+          "id": "dsa/sliding-window",
+          "name": "Sliding Window",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/sliding-window/fixed-size-sliding-window",
+              "name": "Fixed-Size Sliding Window"
+            },
+            {
+              "id": "dsa/sliding-window/variable-size-sliding-window",
+              "name": "Variable-Size Sliding Window"
+            },
+            {
+              "id": "dsa/sliding-window/maximum-sum-subarray-of-size-k",
+              "name": "Maximum Sum Subarray of Size K"
+            },
+            {
+              "id": "dsa/sliding-window/maximum-average-subarray",
+              "name": "Maximum Average Subarray"
+            },
+            {
+              "id": "dsa/sliding-window/longest-substring-without-repeating-characters",
+              "name": "Longest Substring Without Repeating Characters"
+            },
+            {
+              "id": "dsa/sliding-window/minimum-size-subarray-sum",
+              "name": "Minimum Size Subarray Sum"
+            },
+            {
+              "id": "dsa/sliding-window/longest-repeating-character-replacement",
+              "name": "Longest Repeating Character Replacement"
+            },
+            {
+              "id": "dsa/sliding-window/permutation-in-string",
+              "name": "Permutation in String"
+            },
+            {
+              "id": "dsa/sliding-window/minimum-window-substring",
+              "name": "Minimum Window Substring"
+            }
+          ]
+        },
+        {
+          "id": "dsa/recursion-and-backtracking",
+          "name": "Recursion and Backtracking",
+          "groupId": null,
+          "sourceLabels": [
+            "P2 – Important"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/recursion-and-backtracking/basic-recursion",
+              "name": "Basic Recursion"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/recursive-array-problems",
+              "name": "Recursive Array Problems"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/recursive-string-problems",
+              "name": "Recursive String Problems"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/factorial-and-fibonacci",
+              "name": "Factorial and Fibonacci"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/recursion-tree",
+              "name": "Recursion Tree"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/subsets",
+              "name": "Subsets"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/subsequences",
+              "name": "Subsequences"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/permutations",
+              "name": "Permutations"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/combination-sum",
+              "name": "Combination Sum"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/generate-parentheses",
+              "name": "Generate Parentheses"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/n-queens",
+              "name": "N-Queens"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/sudoku-solver",
+              "name": "Sudoku Solver"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/word-search",
+              "name": "Word Search"
+            },
+            {
+              "id": "dsa/recursion-and-backtracking/rat-in-a-maze",
+              "name": "Rat in a Maze"
+            }
+          ]
+        },
+        {
+          "id": "dsa/linked-lists",
+          "name": "Linked Lists",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/linked-lists/singly-linked-list",
+              "name": "Singly Linked List"
+            },
+            {
+              "id": "dsa/linked-lists/doubly-linked-list",
+              "name": "Doubly Linked List"
+            },
+            {
+              "id": "dsa/linked-lists/circular-linked-list",
+              "name": "Circular Linked List"
+            },
+            {
+              "id": "dsa/linked-lists/insertion-and-deletion",
+              "name": "Insertion and Deletion"
+            },
+            {
+              "id": "dsa/linked-lists/traversal",
+              "name": "Traversal"
+            },
+            {
+              "id": "dsa/linked-lists/reversing-a-linked-list",
+              "name": "Reversing a Linked List"
+            },
+            {
+              "id": "dsa/linked-lists/middle-of-linked-list",
+              "name": "Middle of Linked List"
+            },
+            {
+              "id": "dsa/linked-lists/detecting-a-cycle",
+              "name": "Detecting a Cycle"
+            },
+            {
+              "id": "dsa/linked-lists/finding-the-start-of-a-cycle",
+              "name": "Finding the Start of a Cycle"
+            },
+            {
+              "id": "dsa/linked-lists/merging-two-sorted-lists",
+              "name": "Merging Two Sorted Lists"
+            },
+            {
+              "id": "dsa/linked-lists/removing-nth-node-from-end",
+              "name": "Removing Nth Node from End"
+            },
+            {
+              "id": "dsa/linked-lists/palindrome-linked-list",
+              "name": "Palindrome Linked List"
+            },
+            {
+              "id": "dsa/linked-lists/intersection-of-two-linked-lists",
+              "name": "Intersection of Two Linked Lists"
+            },
+            {
+              "id": "dsa/linked-lists/reversing-nodes-in-k-group",
+              "name": "Reversing Nodes in K-Group"
+            },
+            {
+              "id": "dsa/linked-lists/flattening-a-linked-list",
+              "name": "Flattening a Linked List"
+            }
+          ]
+        },
+        {
+          "id": "dsa/stacks-and-queues",
+          "name": "Stacks and Queues",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/stacks-and-queues/stack-implementation",
+              "name": "Stack Implementation"
+            },
+            {
+              "id": "dsa/stacks-and-queues/queue-implementation",
+              "name": "Queue Implementation"
+            },
+            {
+              "id": "dsa/stacks-and-queues/circular-queue",
+              "name": "Circular Queue"
+            },
+            {
+              "id": "dsa/stacks-and-queues/deque",
+              "name": "Deque"
+            },
+            {
+              "id": "dsa/stacks-and-queues/stack-using-queues",
+              "name": "Stack Using Queues"
+            },
+            {
+              "id": "dsa/stacks-and-queues/queue-using-stacks",
+              "name": "Queue Using Stacks"
+            },
+            {
+              "id": "dsa/stacks-and-queues/valid-parentheses",
+              "name": "Valid Parentheses"
+            },
+            {
+              "id": "dsa/stacks-and-queues/min-stack",
+              "name": "Min Stack"
+            },
+            {
+              "id": "dsa/stacks-and-queues/next-greater-element",
+              "name": "Next Greater Element"
+            },
+            {
+              "id": "dsa/stacks-and-queues/previous-smaller-element",
+              "name": "Previous Smaller Element"
+            },
+            {
+              "id": "dsa/stacks-and-queues/daily-temperatures",
+              "name": "Daily Temperatures"
+            },
+            {
+              "id": "dsa/stacks-and-queues/largest-rectangle-in-histogram",
+              "name": "Largest Rectangle in Histogram"
+            },
+            {
+              "id": "dsa/stacks-and-queues/sliding-window-maximum",
+              "name": "Sliding Window Maximum"
+            },
+            {
+              "id": "dsa/stacks-and-queues/monotonic-stack",
+              "name": "Monotonic Stack"
+            },
+            {
+              "id": "dsa/stacks-and-queues/monotonic-queue",
+              "name": "Monotonic Queue"
+            }
+          ]
+        },
+        {
+          "id": "dsa/bit-manipulation",
+          "name": "Bit Manipulation",
+          "groupId": null,
+          "sourceLabels": [
+            "P2 – Important"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/bit-manipulation/binary-number-representation",
+              "name": "Binary Number Representation"
+            },
+            {
+              "id": "dsa/bit-manipulation/and-or-xor-and-not",
+              "name": "AND, OR, XOR and NOT"
+            },
+            {
+              "id": "dsa/bit-manipulation/left-and-right-shifts",
+              "name": "Left and Right Shifts"
+            },
+            {
+              "id": "dsa/bit-manipulation/check-odd-or-even-using-bits",
+              "name": "Check Odd or Even Using Bits"
+            },
+            {
+              "id": "dsa/bit-manipulation/check-if-number-is-a-power-of-two",
+              "name": "Check If Number Is a Power of Two"
+            },
+            {
+              "id": "dsa/bit-manipulation/count-set-bits",
+              "name": "Count Set Bits"
+            },
+            {
+              "id": "dsa/bit-manipulation/find-single-number-using-xor",
+              "name": "Find Single Number Using XOR"
+            },
+            {
+              "id": "dsa/bit-manipulation/clear-and-set-a-bit",
+              "name": "Clear and Set a Bit"
+            },
+            {
+              "id": "dsa/bit-manipulation/toggle-a-bit",
+              "name": "Toggle a Bit"
+            },
+            {
+              "id": "dsa/bit-manipulation/bitmasking",
+              "name": "Bitmasking"
+            },
+            {
+              "id": "dsa/bit-manipulation/subsets-using-bitmasks",
+              "name": "Subsets Using Bitmasks"
+            },
+            {
+              "id": "dsa/bit-manipulation/xor-range-queries",
+              "name": "XOR Range Queries"
+            }
+          ]
+        },
+        {
+          "id": "dsa/trees-and-binary-trees",
+          "name": "Trees and Binary Trees",
+          "groupId": null,
+          "sourceLabels": [
+            "P1 – Essential"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/trees-and-binary-trees/tree-terminology",
+              "name": "Tree Terminology"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/binary-tree-basics",
+              "name": "Binary Tree Basics"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/tree-traversal",
+              "name": "Tree Traversal"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/preorder-traversal",
+              "name": "Preorder Traversal"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/inorder-traversal",
+              "name": "Inorder Traversal"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/postorder-traversal",
+              "name": "Postorder Traversal"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/level-order-traversal",
+              "name": "Level Order Traversal"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/height-and-depth-of-a-tree",
+              "name": "Height and Depth of a Tree"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/maximum-depth",
+              "name": "Maximum Depth"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/minimum-depth",
+              "name": "Minimum Depth"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/diameter-of-binary-tree",
+              "name": "Diameter of Binary Tree"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/balanced-binary-tree",
+              "name": "Balanced Binary Tree"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/same-tree",
+              "name": "Same Tree"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/symmetric-tree",
+              "name": "Symmetric Tree"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/path-sum",
+              "name": "Path Sum"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/lowest-common-ancestor",
+              "name": "Lowest Common Ancestor"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/top-view-and-bottom-view",
+              "name": "Top View and Bottom View"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/vertical-order-traversal",
+              "name": "Vertical Order Traversal"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/zigzag-traversal",
+              "name": "Zigzag Traversal"
+            },
+            {
+              "id": "dsa/trees-and-binary-trees/serialize-and-deserialize-binary-tree",
+              "name": "Serialize and Deserialize Binary Tree"
+            }
+          ]
+        },
+        {
+          "id": "dsa/binary-search-trees-bst",
+          "name": "Binary Search Trees (BST)",
+          "groupId": null,
+          "sourceLabels": [
+            "P2 – Important"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/binary-search-trees-bst/bst-properties",
+              "name": "BST Properties"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/search-in-bst",
+              "name": "Search in BST"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/insertion-in-bst",
+              "name": "Insertion in BST"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/deletion-in-bst",
+              "name": "Deletion in BST"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/validate-bst",
+              "name": "Validate BST"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/minimum-and-maximum-in-bst",
+              "name": "Minimum and Maximum in BST"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/kth-smallest-element",
+              "name": "Kth Smallest Element"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/kth-largest-element",
+              "name": "Kth Largest Element"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/lowest-common-ancestor-in-bst",
+              "name": "Lowest Common Ancestor in BST"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/inorder-successor-and-predecessor",
+              "name": "Inorder Successor and Predecessor"
+            },
+            {
+              "id": "dsa/binary-search-trees-bst/convert-sorted-array-to-bst",
+              "name": "Convert Sorted Array to BST"
+            }
+          ]
+        },
+        {
+          "id": "dsa/heaps-and-priority-queues",
+          "name": "Heaps and Priority Queues",
+          "groupId": null,
+          "sourceLabels": [
+            "P2 – Important"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/heaps-and-priority-queues/min-heap",
+              "name": "Min Heap"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/max-heap",
+              "name": "Max Heap"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/heap-operations",
+              "name": "Heap Operations"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/heapify",
+              "name": "Heapify"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/priority-queue",
+              "name": "Priority Queue"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/kth-largest-element",
+              "name": "Kth Largest Element"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/kth-smallest-element",
+              "name": "Kth Smallest Element"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/top-k-frequent-elements",
+              "name": "Top K Frequent Elements"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/k-closest-points",
+              "name": "K Closest Points"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/merge-k-sorted-lists",
+              "name": "Merge K Sorted Lists"
+            },
+            {
+              "id": "dsa/heaps-and-priority-queues/find-median-from-data-stream",
+              "name": "Find Median from Data Stream"
+            }
+          ]
+        },
+        {
+          "id": "dsa/greedy-algorithms",
+          "name": "Greedy Algorithms",
+          "groupId": null,
+          "sourceLabels": [
+            "P2 – Important"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/greedy-algorithms/greedy-approach",
+              "name": "Greedy Approach"
+            },
+            {
+              "id": "dsa/greedy-algorithms/activity-selection",
+              "name": "Activity Selection"
+            },
+            {
+              "id": "dsa/greedy-algorithms/fractional-knapsack",
+              "name": "Fractional Knapsack"
+            },
+            {
+              "id": "dsa/greedy-algorithms/jump-game",
+              "name": "Jump Game"
+            },
+            {
+              "id": "dsa/greedy-algorithms/jump-game-ii",
+              "name": "Jump Game II"
+            },
+            {
+              "id": "dsa/greedy-algorithms/assign-cookies",
+              "name": "Assign Cookies"
+            },
+            {
+              "id": "dsa/greedy-algorithms/gas-station",
+              "name": "Gas Station"
+            },
+            {
+              "id": "dsa/greedy-algorithms/non-overlapping-intervals",
+              "name": "Non-overlapping Intervals"
+            },
+            {
+              "id": "dsa/greedy-algorithms/minimum-number-of-platforms",
+              "name": "Minimum Number of Platforms"
+            },
+            {
+              "id": "dsa/greedy-algorithms/job-sequencing",
+              "name": "Job Sequencing"
+            },
+            {
+              "id": "dsa/greedy-algorithms/meeting-rooms",
+              "name": "Meeting Rooms"
+            },
+            {
+              "id": "dsa/greedy-algorithms/huffman-coding",
+              "name": "Huffman Coding"
+            }
+          ]
+        },
+        {
+          "id": "dsa/graphs",
+          "name": "Graphs",
+          "groupId": null,
+          "sourceLabels": [
+            "P2 – Important"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/graphs/graph-representation",
+              "name": "Graph Representation"
+            },
+            {
+              "id": "dsa/graphs/adjacency-matrix",
+              "name": "Adjacency Matrix"
+            },
+            {
+              "id": "dsa/graphs/adjacency-list",
+              "name": "Adjacency List"
+            },
+            {
+              "id": "dsa/graphs/breadth-first-search-bfs",
+              "name": "Breadth First Search (BFS)"
+            },
+            {
+              "id": "dsa/graphs/depth-first-search-dfs",
+              "name": "Depth First Search (DFS)"
+            },
+            {
+              "id": "dsa/graphs/connected-components",
+              "name": "Connected Components"
+            },
+            {
+              "id": "dsa/graphs/number-of-islands",
+              "name": "Number of Islands"
+            },
+            {
+              "id": "dsa/graphs/flood-fill",
+              "name": "Flood Fill"
+            },
+            {
+              "id": "dsa/graphs/cycle-detection-in-undirected-graph",
+              "name": "Cycle Detection in Undirected Graph"
+            },
+            {
+              "id": "dsa/graphs/cycle-detection-in-directed-graph",
+              "name": "Cycle Detection in Directed Graph"
+            },
+            {
+              "id": "dsa/graphs/topological-sorting",
+              "name": "Topological Sorting"
+            },
+            {
+              "id": "dsa/graphs/course-schedule",
+              "name": "Course Schedule"
+            },
+            {
+              "id": "dsa/graphs/bipartite-graph",
+              "name": "Bipartite Graph"
+            },
+            {
+              "id": "dsa/graphs/shortest-path-in-unweighted-graph",
+              "name": "Shortest Path in Unweighted Graph"
+            },
+            {
+              "id": "dsa/graphs/dijkstras-algorithm",
+              "name": "Dijkstra's Algorithm"
+            },
+            {
+              "id": "dsa/graphs/bellman-ford-algorithm",
+              "name": "Bellman-Ford Algorithm"
+            },
+            {
+              "id": "dsa/graphs/floyd-warshall-algorithm",
+              "name": "Floyd-Warshall Algorithm"
+            },
+            {
+              "id": "dsa/graphs/minimum-spanning-tree",
+              "name": "Minimum Spanning Tree"
+            },
+            {
+              "id": "dsa/graphs/prims-algorithm",
+              "name": "Prim's Algorithm"
+            },
+            {
+              "id": "dsa/graphs/kruskals-algorithm",
+              "name": "Kruskal's Algorithm"
+            },
+            {
+              "id": "dsa/graphs/disjoint-set-union-dsu",
+              "name": "Disjoint Set Union (DSU)"
+            },
+            {
+              "id": "dsa/graphs/strongly-connected-components",
+              "name": "Strongly Connected Components"
+            }
+          ]
+        },
+        {
+          "id": "dsa/dynamic-programming-dp",
+          "name": "Dynamic Programming (DP)",
+          "groupId": null,
+          "sourceLabels": [
+            "P2 – Important",
+            "Advanced"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/dynamic-programming-dp/introduction-to-dp",
+              "name": "Introduction to DP"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/memoization",
+              "name": "Memoization"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/tabulation",
+              "name": "Tabulation"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/space-optimization",
+              "name": "Space Optimization"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/fibonacci-dp",
+              "name": "Fibonacci DP"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/climbing-stairs",
+              "name": "Climbing Stairs"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/frog-jump",
+              "name": "Frog Jump"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/house-robber",
+              "name": "House Robber"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/maximum-sum-non-adjacent-elements",
+              "name": "Maximum Sum Non-Adjacent Elements"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/coin-change",
+              "name": "Coin Change"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/0-1-knapsack",
+              "name": "0/1 Knapsack"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/subset-sum",
+              "name": "Subset Sum"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/partition-equal-subset-sum",
+              "name": "Partition Equal Subset Sum"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/longest-common-subsequence",
+              "name": "Longest Common Subsequence"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/longest-increasing-subsequence",
+              "name": "Longest Increasing Subsequence"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/longest-palindromic-subsequence",
+              "name": "Longest Palindromic Subsequence"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/edit-distance",
+              "name": "Edit Distance"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/matrix-chain-multiplication",
+              "name": "Matrix Chain Multiplication"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/grid-based-dp",
+              "name": "Grid-Based DP"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/dp-on-strings",
+              "name": "DP on Strings"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/dp-on-trees",
+              "name": "DP on Trees"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/dp-on-stocks",
+              "name": "DP on Stocks"
+            },
+            {
+              "id": "dsa/dynamic-programming-dp/bitmask-dp",
+              "name": "Bitmask DP"
+            }
+          ]
+        },
+        {
+          "id": "dsa/advanced-data-structures-and-algorithms",
+          "name": "Advanced Data Structures and Algorithms",
+          "groupId": null,
+          "sourceLabels": [
+            "P3 – Advanced"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/trie",
+              "name": "Trie"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/segment-tree",
+              "name": "Segment Tree"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/fenwick-tree-binary-indexed-tree",
+              "name": "Fenwick Tree (Binary Indexed Tree)"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/sparse-table",
+              "name": "Sparse Table"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/union-find-dsu-advanced",
+              "name": "Union-Find / DSU Advanced"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/kmp-string-matching",
+              "name": "KMP String Matching"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/rabin-karp-algorithm",
+              "name": "Rabin-Karp Algorithm"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/z-algorithm",
+              "name": "Z Algorithm"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/manachers-algorithm",
+              "name": "Manacher's Algorithm"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/advanced-graph-algorithms",
+              "name": "Advanced Graph Algorithms"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/network-flow",
+              "name": "Network Flow"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/strongly-connected-components",
+              "name": "Strongly Connected Components"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/bridges-and-articulation-points",
+              "name": "Bridges and Articulation Points"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/lowest-common-ancestor-with-binary-lifting",
+              "name": "Lowest Common Ancestor with Binary Lifting"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/advanced-dynamic-programming",
+              "name": "Advanced Dynamic Programming"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/divide-and-conquer",
+              "name": "Divide and Conquer"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/meet-in-the-middle",
+              "name": "Meet in the Middle"
+            },
+            {
+              "id": "dsa/advanced-data-structures-and-algorithms/computational-geometry-basics",
+              "name": "Computational Geometry Basics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gk",
+      "name": "General Knowledge & Technical Knowledge",
+      "source": "brief",
+      "groups": [],
+      "topics": [
+        {
+          "id": "gk/general-awareness",
+          "name": "General Awareness",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "gk/general-awareness/indian-history",
+              "name": "Indian History"
+            },
+            {
+              "id": "gk/general-awareness/indian-geography",
+              "name": "Indian Geography"
+            },
+            {
+              "id": "gk/general-awareness/indian-polity-and-constitution",
+              "name": "Indian Polity and Constitution"
+            },
+            {
+              "id": "gk/general-awareness/indian-economy",
+              "name": "Indian Economy"
+            },
+            {
+              "id": "gk/general-awareness/general-science",
+              "name": "General Science"
+            },
+            {
+              "id": "gk/general-awareness/important-national-events",
+              "name": "Important National Events"
+            },
+            {
+              "id": "gk/general-awareness/important-international-events",
+              "name": "Important International Events"
+            },
+            {
+              "id": "gk/general-awareness/important-days",
+              "name": "Important Days"
+            },
+            {
+              "id": "gk/general-awareness/awards-and-honours",
+              "name": "Awards and Honours"
+            },
+            {
+              "id": "gk/general-awareness/books-and-authors",
+              "name": "Books and Authors"
+            },
+            {
+              "id": "gk/general-awareness/sports",
+              "name": "Sports"
+            },
+            {
+              "id": "gk/general-awareness/important-organisations",
+              "name": "Important Organisations"
+            },
+            {
+              "id": "gk/general-awareness/government-schemes",
+              "name": "Government Schemes"
+            },
+            {
+              "id": "gk/general-awareness/current-affairs",
+              "name": "Current Affairs"
+            }
+          ]
+        },
+        {
+          "id": "gk/technology-awareness",
+          "name": "Technology Awareness",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "gk/technology-awareness/latest-technology-trends",
+              "name": "Latest Technology Trends"
+            },
+            {
+              "id": "gk/technology-awareness/artificial-intelligence",
+              "name": "Artificial Intelligence"
+            },
+            {
+              "id": "gk/technology-awareness/machine-learning",
+              "name": "Machine Learning"
+            },
+            {
+              "id": "gk/technology-awareness/generative-ai",
+              "name": "Generative AI"
+            },
+            {
+              "id": "gk/technology-awareness/cloud-computing",
+              "name": "Cloud Computing"
+            },
+            {
+              "id": "gk/technology-awareness/cybersecurity",
+              "name": "Cybersecurity"
+            },
+            {
+              "id": "gk/technology-awareness/blockchain",
+              "name": "Blockchain"
+            },
+            {
+              "id": "gk/technology-awareness/internet-of-things",
+              "name": "Internet of Things"
+            },
+            {
+              "id": "gk/technology-awareness/big-data",
+              "name": "Big Data"
+            },
+            {
+              "id": "gk/technology-awareness/data-science",
+              "name": "Data Science"
+            },
+            {
+              "id": "gk/technology-awareness/robotics",
+              "name": "Robotics"
+            },
+            {
+              "id": "gk/technology-awareness/emerging-technologies",
+              "name": "Emerging Technologies"
+            }
+          ]
+        },
+        {
+          "id": "gk/technical-fundamentals",
+          "name": "Technical Fundamentals",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "gk/technical-fundamentals/computer-fundamentals",
+              "name": "Computer Fundamentals"
+            },
+            {
+              "id": "gk/technical-fundamentals/programming-concepts",
+              "name": "Programming Concepts"
+            },
+            {
+              "id": "gk/technical-fundamentals/data-structures",
+              "name": "Data Structures"
+            },
+            {
+              "id": "gk/technical-fundamentals/algorithms",
+              "name": "Algorithms"
+            },
+            {
+              "id": "gk/technical-fundamentals/dbms",
+              "name": "DBMS"
+            },
+            {
+              "id": "gk/technical-fundamentals/sql",
+              "name": "SQL"
+            },
+            {
+              "id": "gk/technical-fundamentals/operating-systems",
+              "name": "Operating Systems"
+            },
+            {
+              "id": "gk/technical-fundamentals/computer-networks",
+              "name": "Computer Networks"
+            },
+            {
+              "id": "gk/technical-fundamentals/oop",
+              "name": "OOP"
+            },
+            {
+              "id": "gk/technical-fundamentals/software-engineering",
+              "name": "Software Engineering"
+            },
+            {
+              "id": "gk/technical-fundamentals/web-technologies",
+              "name": "Web Technologies"
+            },
+            {
+              "id": "gk/technical-fundamentals/cloud-fundamentals",
+              "name": "Cloud Fundamentals"
+            },
+            {
+              "id": "gk/technical-fundamentals/cybersecurity-fundamentals",
+              "name": "Cybersecurity Fundamentals"
+            }
+          ]
+        },
+        {
+          "id": "gk/company-and-industry-awareness",
+          "name": "Company and Industry Awareness",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "gk/company-and-industry-awareness/company-profiles",
+              "name": "Company Profiles"
+            },
+            {
+              "id": "gk/company-and-industry-awareness/company-products-and-services",
+              "name": "Company Products and Services"
+            },
+            {
+              "id": "gk/company-and-industry-awareness/founders-and-leadership",
+              "name": "Founders and Leadership"
+            },
+            {
+              "id": "gk/company-and-industry-awareness/company-history",
+              "name": "Company History"
+            },
+            {
+              "id": "gk/company-and-industry-awareness/industry-trends",
+              "name": "Industry Trends"
+            },
+            {
+              "id": "gk/company-and-industry-awareness/it-industry-news",
+              "name": "IT Industry News"
+            },
+            {
+              "id": "gk/company-and-industry-awareness/business-models",
+              "name": "Business Models"
+            },
+            {
+              "id": "gk/company-and-industry-awareness/recent-mergers-and-acquisitions",
+              "name": "Recent Mergers and Acquisitions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech-interview",
+      "name": "Technical & Interview Prep",
+      "source": "docx",
+      "groups": [
+        {
+          "id": "tech-interview/group/programming-languages",
+          "name": "Programming Languages",
+          "sourceLabels": [
+            "High priority"
+          ],
+          "notes": [
+            {
+              "text": "You should have one primary interview language and one secondary language.",
+              "placement": "before"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/group/ai-ml-specialization",
+          "name": "AI / ML Specialization",
+          "sourceLabels": [
+            "Important for your target domain"
+          ],
+          "notes": [
+            {
+              "text": "You don't need to master this entire section before applying to general IT roles. But it will help differentiate you for AI/ML positions.",
+              "placement": "before"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/group/communication-and-interview-preparation",
+          "name": "Communication and Interview Preparation",
+          "sourceLabels": [
+            "High priority"
+          ],
+          "notes": []
+        }
+      ],
+      "topics": [
+        {
+          "id": "tech-interview/dbms-database-management-systems",
+          "name": "DBMS (Database Management Systems)",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/dbms-database-management-systems/introduction-to-dbms",
+              "name": "Introduction to DBMS"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/dbms-vs-rdbms",
+              "name": "DBMS vs RDBMS"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/database-models",
+              "name": "Database Models"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/keys-primary-foreign-candidate-foreign-composite",
+              "name": "Keys (Primary, Foreign, Candidate, Foreign, Composite)"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/normalization-1nf-2nf-3nf-bcnf",
+              "name": "Normalization (1NF, 2NF, 3NF, BCNF)"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/functional-dependencies",
+              "name": "Functional Dependencies"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/er-diagrams",
+              "name": "ER Diagrams"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/sql-fundamentals",
+              "name": "SQL Fundamentals"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/joins",
+              "name": "Joins"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/subqueries",
+              "name": "Subqueries"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/aggregate-functions",
+              "name": "Aggregate Functions"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/group-by-and-having",
+              "name": "GROUP BY and HAVING"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/indexing",
+              "name": "Indexing"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/transactions",
+              "name": "Transactions"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/acid-properties",
+              "name": "ACID Properties"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/concurrency-control",
+              "name": "Concurrency Control"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/deadlocks",
+              "name": "Deadlocks"
+            },
+            {
+              "id": "tech-interview/dbms-database-management-systems/views-and-stored-procedures",
+              "name": "Views and Stored Procedures"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/operating-systems",
+          "name": "Operating Systems",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/operating-systems/introduction-to-os",
+              "name": "Introduction to OS"
+            },
+            {
+              "id": "tech-interview/operating-systems/process-and-thread",
+              "name": "Process and Thread"
+            },
+            {
+              "id": "tech-interview/operating-systems/process-states",
+              "name": "Process States"
+            },
+            {
+              "id": "tech-interview/operating-systems/cpu-scheduling",
+              "name": "CPU Scheduling"
+            },
+            {
+              "id": "tech-interview/operating-systems/context-switching",
+              "name": "Context Switching"
+            },
+            {
+              "id": "tech-interview/operating-systems/process-synchronization",
+              "name": "Process Synchronization"
+            },
+            {
+              "id": "tech-interview/operating-systems/mutex-and-semaphore",
+              "name": "Mutex and Semaphore"
+            },
+            {
+              "id": "tech-interview/operating-systems/deadlocks",
+              "name": "Deadlocks"
+            },
+            {
+              "id": "tech-interview/operating-systems/memory-management",
+              "name": "Memory Management"
+            },
+            {
+              "id": "tech-interview/operating-systems/paging-and-segmentation",
+              "name": "Paging and Segmentation"
+            },
+            {
+              "id": "tech-interview/operating-systems/virtual-memory",
+              "name": "Virtual Memory"
+            },
+            {
+              "id": "tech-interview/operating-systems/page-replacement-algorithms",
+              "name": "Page Replacement Algorithms"
+            },
+            {
+              "id": "tech-interview/operating-systems/file-systems",
+              "name": "File Systems"
+            },
+            {
+              "id": "tech-interview/operating-systems/system-calls",
+              "name": "System Calls"
+            },
+            {
+              "id": "tech-interview/operating-systems/user-mode-and-kernel-mode",
+              "name": "User Mode and Kernel Mode"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/computer-networks",
+          "name": "Computer Networks",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/computer-networks/introduction-to-networking",
+              "name": "Introduction to Networking"
+            },
+            {
+              "id": "tech-interview/computer-networks/osi-model",
+              "name": "OSI Model"
+            },
+            {
+              "id": "tech-interview/computer-networks/tcp-ip-model",
+              "name": "TCP/IP Model"
+            },
+            {
+              "id": "tech-interview/computer-networks/tcp-vs-udp",
+              "name": "TCP vs UDP"
+            },
+            {
+              "id": "tech-interview/computer-networks/ip-addressing",
+              "name": "IP Addressing"
+            },
+            {
+              "id": "tech-interview/computer-networks/ipv4-and-ipv6",
+              "name": "IPv4 and IPv6"
+            },
+            {
+              "id": "tech-interview/computer-networks/dns",
+              "name": "DNS"
+            },
+            {
+              "id": "tech-interview/computer-networks/dhcp",
+              "name": "DHCP"
+            },
+            {
+              "id": "tech-interview/computer-networks/http-and-https",
+              "name": "HTTP and HTTPS"
+            },
+            {
+              "id": "tech-interview/computer-networks/http-methods-and-status-codes",
+              "name": "HTTP Methods and Status Codes"
+            },
+            {
+              "id": "tech-interview/computer-networks/routing-and-switching",
+              "name": "Routing and Switching"
+            },
+            {
+              "id": "tech-interview/computer-networks/mac-address",
+              "name": "MAC Address"
+            },
+            {
+              "id": "tech-interview/computer-networks/arp",
+              "name": "ARP"
+            },
+            {
+              "id": "tech-interview/computer-networks/subnetting-basics",
+              "name": "Subnetting Basics"
+            },
+            {
+              "id": "tech-interview/computer-networks/firewalls",
+              "name": "Firewalls"
+            },
+            {
+              "id": "tech-interview/computer-networks/client-server-architecture",
+              "name": "Client-Server Architecture"
+            },
+            {
+              "id": "tech-interview/computer-networks/rest-apis",
+              "name": "REST APIs"
+            },
+            {
+              "id": "tech-interview/computer-networks/cookies-and-sessions",
+              "name": "Cookies and Sessions"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/object-oriented-programming",
+          "name": "Object-Oriented Programming",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/object-oriented-programming/classes-and-objects",
+              "name": "Classes and Objects"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/encapsulation",
+              "name": "Encapsulation"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/abstraction",
+              "name": "Abstraction"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/inheritance",
+              "name": "Inheritance"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/polymorphism",
+              "name": "Polymorphism"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/method-overloading",
+              "name": "Method Overloading"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/method-overriding",
+              "name": "Method Overriding"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/constructors",
+              "name": "Constructors"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/access-modifiers",
+              "name": "Access Modifiers"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/static-and-instance-members",
+              "name": "Static and Instance Members"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/interfaces",
+              "name": "Interfaces"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/abstract-classes",
+              "name": "Abstract Classes"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/exception-handling",
+              "name": "Exception Handling"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/solid-principles",
+              "name": "SOLID Principles"
+            },
+            {
+              "id": "tech-interview/object-oriented-programming/composition-vs-inheritance",
+              "name": "Composition vs Inheritance"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/java-primary-interview-language",
+          "name": "Java – Primary interview language",
+          "groupId": "tech-interview/group/programming-languages",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/java-primary-interview-language/java-fundamentals",
+              "name": "Java Fundamentals"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/data-types-and-variables",
+              "name": "Data Types and Variables"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/operators",
+              "name": "Operators"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/conditional-statements",
+              "name": "Conditional Statements"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/loops",
+              "name": "Loops"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/methods",
+              "name": "Methods"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/arrays-and-strings",
+              "name": "Arrays and Strings"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/classes-and-objects",
+              "name": "Classes and Objects"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/constructors",
+              "name": "Constructors"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/inheritance",
+              "name": "Inheritance"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/polymorphism",
+              "name": "Polymorphism"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/encapsulation-and-abstraction",
+              "name": "Encapsulation and Abstraction"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/interfaces",
+              "name": "Interfaces"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/exception-handling",
+              "name": "Exception Handling"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/collections-framework",
+              "name": "Collections Framework"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/arraylist-linkedlist",
+              "name": "ArrayList, LinkedList"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/hashmap-and-hashset",
+              "name": "HashMap and HashSet"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/stack-and-queue",
+              "name": "Stack and Queue"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/generics",
+              "name": "Generics"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/java-8-features",
+              "name": "Java 8 Features"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/streams-and-lambda-expressions",
+              "name": "Streams and Lambda Expressions"
+            },
+            {
+              "id": "tech-interview/java-primary-interview-language/multithreading-basics",
+              "name": "Multithreading Basics"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/python-secondary-ai-ml-language",
+          "name": "Python – Secondary / AI-ML language",
+          "groupId": "tech-interview/group/programming-languages",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/python-fundamentals",
+              "name": "Python Fundamentals"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/data-types",
+              "name": "Data Types"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/lists-tuples-sets-and-dictionaries",
+              "name": "Lists, Tuples, Sets and Dictionaries"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/conditional-statements-and-loops",
+              "name": "Conditional Statements and Loops"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/functions",
+              "name": "Functions"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/lambda-functions",
+              "name": "Lambda Functions"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/list-comprehensions",
+              "name": "List Comprehensions"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/string-manipulation",
+              "name": "String Manipulation"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/file-handling",
+              "name": "File Handling"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/exception-handling",
+              "name": "Exception Handling"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/modules-and-packages",
+              "name": "Modules and Packages"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/oop-in-python",
+              "name": "OOP in Python"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/iterators-and-generators",
+              "name": "Iterators and Generators"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/decorators-basics",
+              "name": "Decorators Basics"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/numpy",
+              "name": "NumPy"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/pandas",
+              "name": "Pandas"
+            },
+            {
+              "id": "tech-interview/python-secondary-ai-ml-language/matplotlib",
+              "name": "Matplotlib"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/sql-and-database-practice",
+          "name": "SQL and Database Practice",
+          "groupId": null,
+          "sourceLabels": [
+            "High priority"
+          ],
+          "notes": [
+            {
+              "text": "Even if you study DBMS theory, you need practical SQL skills.",
+              "placement": "before"
+            }
+          ],
+          "subtopics": [
+            {
+              "id": "tech-interview/sql-and-database-practice/select",
+              "name": "SELECT"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/where",
+              "name": "WHERE"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/order-by",
+              "name": "ORDER BY"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/distinct",
+              "name": "DISTINCT"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/limit",
+              "name": "LIMIT"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/aggregate-functions",
+              "name": "Aggregate Functions"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/group-by",
+              "name": "GROUP BY"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/having",
+              "name": "HAVING"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/case-when",
+              "name": "CASE WHEN"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/inner-join",
+              "name": "INNER JOIN"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/left-join",
+              "name": "LEFT JOIN"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/right-join",
+              "name": "RIGHT JOIN"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/full-outer-join",
+              "name": "FULL OUTER JOIN"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/self-join",
+              "name": "Self Join"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/subqueries",
+              "name": "Subqueries"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/correlated-subqueries",
+              "name": "Correlated Subqueries"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/union-and-union-all",
+              "name": "UNION and UNION ALL"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/ctes",
+              "name": "CTEs"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/window-functions",
+              "name": "Window Functions"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/row-number-rank-and-dense-rank",
+              "name": "ROW_NUMBER, RANK and DENSE_RANK"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/views",
+              "name": "Views"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/indexes",
+              "name": "Indexes"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/insert-update-and-delete",
+              "name": "INSERT, UPDATE and DELETE"
+            },
+            {
+              "id": "tech-interview/sql-and-database-practice/database-design",
+              "name": "Database Design"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/software-development-fundamentals",
+          "name": "Software Development Fundamentals",
+          "groupId": null,
+          "sourceLabels": [
+            "Important"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/software-development-fundamentals/git-fundamentals",
+              "name": "Git Fundamentals"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/github",
+              "name": "GitHub"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/branching-and-merging",
+              "name": "Branching and Merging"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/pull-requests",
+              "name": "Pull Requests"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/debugging",
+              "name": "Debugging"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/rest-api-concepts",
+              "name": "REST API Concepts"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/http-methods",
+              "name": "HTTP Methods"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/json",
+              "name": "JSON"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/authentication-and-authorization",
+              "name": "Authentication and Authorization"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/jwt",
+              "name": "JWT"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/client-server-architecture",
+              "name": "Client-Server Architecture"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/mvc-architecture",
+              "name": "MVC Architecture"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/software-development-life-cycle-sdlc",
+              "name": "Software Development Life Cycle (SDLC)"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/agile-methodology",
+              "name": "Agile Methodology"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/unit-testing",
+              "name": "Unit Testing"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/integration-testing",
+              "name": "Integration Testing"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/basic-linux-commands",
+              "name": "Basic Linux Commands"
+            },
+            {
+              "id": "tech-interview/software-development-fundamentals/command-line-fundamentals",
+              "name": "Command Line Fundamentals"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/projects-and-practical-development",
+          "name": "Projects and Practical Development",
+          "groupId": null,
+          "sourceLabels": [
+            "High priority"
+          ],
+          "notes": [
+            {
+              "text": "You already have projects such as Secure File Storage and AI Crop Disease Detection. The next step is to make sure you can actually explain and defend them.",
+              "placement": "before"
+            },
+            {
+              "text": "Prepare these areas:",
+              "placement": "before"
+            },
+            {
+              "text": "Most importantly: Be able to explain every technology and implementation you mention on your resume.",
+              "placement": "after"
+            }
+          ],
+          "subtopics": [
+            {
+              "id": "tech-interview/projects-and-practical-development/problem-statement",
+              "name": "Problem Statement"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/project-architecture",
+              "name": "Project Architecture"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/technology-stack",
+              "name": "Technology Stack"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/database-design",
+              "name": "Database Design"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/api-design",
+              "name": "API Design"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/authentication-and-security",
+              "name": "Authentication and Security"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/error-handling",
+              "name": "Error Handling"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/model-training-and-evaluation-for-ml-projects",
+              "name": "Model Training and Evaluation (for ML projects)"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/testing",
+              "name": "Testing"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/deployment",
+              "name": "Deployment"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/github-repository-management",
+              "name": "GitHub Repository Management"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/project-demonstration",
+              "name": "Project Demonstration"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/limitations-and-future-improvements",
+              "name": "Limitations and Future Improvements"
+            },
+            {
+              "id": "tech-interview/projects-and-practical-development/technical-decisions-and-trade-offs",
+              "name": "Technical Decisions and Trade-offs"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/mathematics-for-ml",
+          "name": "Mathematics for ML",
+          "groupId": "tech-interview/group/ai-ml-specialization",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/mathematics-for-ml/linear-algebra",
+              "name": "Linear Algebra"
+            },
+            {
+              "id": "tech-interview/mathematics-for-ml/matrices-and-vectors",
+              "name": "Matrices and Vectors"
+            },
+            {
+              "id": "tech-interview/mathematics-for-ml/probability",
+              "name": "Probability"
+            },
+            {
+              "id": "tech-interview/mathematics-for-ml/statistics",
+              "name": "Statistics"
+            },
+            {
+              "id": "tech-interview/mathematics-for-ml/mean-median-and-mode",
+              "name": "Mean, Median and Mode"
+            },
+            {
+              "id": "tech-interview/mathematics-for-ml/variance-and-standard-deviation",
+              "name": "Variance and Standard Deviation"
+            },
+            {
+              "id": "tech-interview/mathematics-for-ml/derivatives",
+              "name": "Derivatives"
+            },
+            {
+              "id": "tech-interview/mathematics-for-ml/gradients",
+              "name": "Gradients"
+            },
+            {
+              "id": "tech-interview/mathematics-for-ml/basic-calculus",
+              "name": "Basic Calculus"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/machine-learning",
+          "name": "Machine Learning",
+          "groupId": "tech-interview/group/ai-ml-specialization",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/machine-learning/introduction-to-machine-learning",
+              "name": "Introduction to Machine Learning"
+            },
+            {
+              "id": "tech-interview/machine-learning/supervised-learning",
+              "name": "Supervised Learning"
+            },
+            {
+              "id": "tech-interview/machine-learning/unsupervised-learning",
+              "name": "Unsupervised Learning"
+            },
+            {
+              "id": "tech-interview/machine-learning/classification",
+              "name": "Classification"
+            },
+            {
+              "id": "tech-interview/machine-learning/regression",
+              "name": "Regression"
+            },
+            {
+              "id": "tech-interview/machine-learning/linear-regression",
+              "name": "Linear Regression"
+            },
+            {
+              "id": "tech-interview/machine-learning/logistic-regression",
+              "name": "Logistic Regression"
+            },
+            {
+              "id": "tech-interview/machine-learning/decision-trees",
+              "name": "Decision Trees"
+            },
+            {
+              "id": "tech-interview/machine-learning/random-forest",
+              "name": "Random Forest"
+            },
+            {
+              "id": "tech-interview/machine-learning/k-nearest-neighbors",
+              "name": "K-Nearest Neighbors"
+            },
+            {
+              "id": "tech-interview/machine-learning/support-vector-machines",
+              "name": "Support Vector Machines"
+            },
+            {
+              "id": "tech-interview/machine-learning/k-means-clustering",
+              "name": "K-Means Clustering"
+            },
+            {
+              "id": "tech-interview/machine-learning/train-test-split",
+              "name": "Train-Test Split"
+            },
+            {
+              "id": "tech-interview/machine-learning/cross-validation",
+              "name": "Cross Validation"
+            },
+            {
+              "id": "tech-interview/machine-learning/overfitting-and-underfitting",
+              "name": "Overfitting and Underfitting"
+            },
+            {
+              "id": "tech-interview/machine-learning/bias-variance-trade-off",
+              "name": "Bias-Variance Trade-off"
+            },
+            {
+              "id": "tech-interview/machine-learning/feature-engineering",
+              "name": "Feature Engineering"
+            },
+            {
+              "id": "tech-interview/machine-learning/model-evaluation-metrics",
+              "name": "Model Evaluation Metrics"
+            },
+            {
+              "id": "tech-interview/machine-learning/confusion-matrix",
+              "name": "Confusion Matrix"
+            },
+            {
+              "id": "tech-interview/machine-learning/precision-recall-and-f1-score",
+              "name": "Precision, Recall and F1 Score"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/deep-learning",
+          "name": "Deep Learning",
+          "groupId": "tech-interview/group/ai-ml-specialization",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/deep-learning/neural-networks",
+              "name": "Neural Networks"
+            },
+            {
+              "id": "tech-interview/deep-learning/perceptrons",
+              "name": "Perceptrons"
+            },
+            {
+              "id": "tech-interview/deep-learning/activation-functions",
+              "name": "Activation Functions"
+            },
+            {
+              "id": "tech-interview/deep-learning/forward-propagation",
+              "name": "Forward Propagation"
+            },
+            {
+              "id": "tech-interview/deep-learning/backpropagation",
+              "name": "Backpropagation"
+            },
+            {
+              "id": "tech-interview/deep-learning/loss-functions",
+              "name": "Loss Functions"
+            },
+            {
+              "id": "tech-interview/deep-learning/gradient-descent",
+              "name": "Gradient Descent"
+            },
+            {
+              "id": "tech-interview/deep-learning/optimizers",
+              "name": "Optimizers"
+            },
+            {
+              "id": "tech-interview/deep-learning/cnn",
+              "name": "CNN"
+            },
+            {
+              "id": "tech-interview/deep-learning/rnn-basics",
+              "name": "RNN Basics"
+            },
+            {
+              "id": "tech-interview/deep-learning/transfer-learning",
+              "name": "Transfer Learning"
+            },
+            {
+              "id": "tech-interview/deep-learning/model-evaluation",
+              "name": "Model Evaluation"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/ai-tools-and-frameworks",
+          "name": "AI Tools and Frameworks",
+          "groupId": "tech-interview/group/ai-ml-specialization",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/ai-tools-and-frameworks/numpy",
+              "name": "NumPy"
+            },
+            {
+              "id": "tech-interview/ai-tools-and-frameworks/pandas",
+              "name": "Pandas"
+            },
+            {
+              "id": "tech-interview/ai-tools-and-frameworks/scikit-learn",
+              "name": "Scikit-learn"
+            },
+            {
+              "id": "tech-interview/ai-tools-and-frameworks/tensorflow-keras",
+              "name": "TensorFlow / Keras"
+            },
+            {
+              "id": "tech-interview/ai-tools-and-frameworks/opencv",
+              "name": "OpenCV"
+            },
+            {
+              "id": "tech-interview/ai-tools-and-frameworks/matplotlib",
+              "name": "Matplotlib"
+            },
+            {
+              "id": "tech-interview/ai-tools-and-frameworks/model-saving-and-loading",
+              "name": "Model Saving and Loading"
+            },
+            {
+              "id": "tech-interview/ai-tools-and-frameworks/basic-model-deployment",
+              "name": "Basic Model Deployment"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/communication",
+          "name": "Communication",
+          "groupId": "tech-interview/group/communication-and-interview-preparation",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/communication/self-introduction",
+              "name": "Self Introduction"
+            },
+            {
+              "id": "tech-interview/communication/professional-communication",
+              "name": "Professional Communication"
+            },
+            {
+              "id": "tech-interview/communication/speaking-with-clarity",
+              "name": "Speaking with Clarity"
+            },
+            {
+              "id": "tech-interview/communication/explaining-technical-concepts",
+              "name": "Explaining Technical Concepts"
+            },
+            {
+              "id": "tech-interview/communication/active-listening",
+              "name": "Active Listening"
+            },
+            {
+              "id": "tech-interview/communication/group-discussions",
+              "name": "Group Discussions"
+            },
+            {
+              "id": "tech-interview/communication/presentation-skills",
+              "name": "Presentation Skills"
+            },
+            {
+              "id": "tech-interview/communication/email-writing",
+              "name": "Email Writing"
+            },
+            {
+              "id": "tech-interview/communication/workplace-communication",
+              "name": "Workplace Communication"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/hr-interview-questions",
+          "name": "HR Interview Questions",
+          "groupId": "tech-interview/group/communication-and-interview-preparation",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/hr-interview-questions/tell-me-about-yourself",
+              "name": "Tell Me About Yourself"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/why-should-we-hire-you",
+              "name": "Why Should We Hire You?"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/strengths-and-weaknesses",
+              "name": "Strengths and Weaknesses"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/short-term-and-long-term-goals",
+              "name": "Short-Term and Long-Term Goals"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/why-this-company",
+              "name": "Why This Company?"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/why-this-role",
+              "name": "Why This Role?"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/handling-failure",
+              "name": "Handling Failure"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/teamwork-experiences",
+              "name": "Teamwork Experiences"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/conflict-resolution",
+              "name": "Conflict Resolution"
+            },
+            {
+              "id": "tech-interview/hr-interview-questions/career-aspirations",
+              "name": "Career Aspirations"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/technical-interview-preparation",
+          "name": "Technical Interview Preparation",
+          "groupId": "tech-interview/group/communication-and-interview-preparation",
+          "sourceLabels": [],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/technical-interview-preparation/explaining-dsa-solutions",
+              "name": "Explaining DSA Solutions"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/explaining-time-and-space-complexity",
+              "name": "Explaining Time and Space Complexity"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/oop-interview-questions",
+              "name": "OOP Interview Questions"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/dbms-interview-questions",
+              "name": "DBMS Interview Questions"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/os-interview-questions",
+              "name": "OS Interview Questions"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/cn-interview-questions",
+              "name": "CN Interview Questions"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/sql-coding-questions",
+              "name": "SQL Coding Questions"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/programming-output-questions",
+              "name": "Programming Output Questions"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/debugging-questions",
+              "name": "Debugging Questions"
+            },
+            {
+              "id": "tech-interview/technical-interview-preparation/project-based-questions",
+              "name": "Project-Based Questions"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/resume-and-placement-preparation",
+          "name": "Resume and Placement Preparation",
+          "groupId": null,
+          "sourceLabels": [
+            "High priority"
+          ],
+          "notes": [],
+          "subtopics": [
+            {
+              "id": "tech-interview/resume-and-placement-preparation/ats-friendly-resume",
+              "name": "ATS-Friendly Resume"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/resume-customization-for-each-role",
+              "name": "Resume Customization for Each Role"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/project-descriptions",
+              "name": "Project Descriptions"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/technical-skills-assessment",
+              "name": "Technical Skills Assessment"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/linkedin-profile",
+              "name": "LinkedIn Profile"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/github-profile",
+              "name": "GitHub Profile"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/portfolio-development",
+              "name": "Portfolio Development"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/internship-applications",
+              "name": "Internship Applications"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/company-research",
+              "name": "Company Research"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/job-description-analysis",
+              "name": "Job Description Analysis"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/online-assessment-preparation",
+              "name": "Online Assessment Preparation"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/technical-mock-interviews",
+              "name": "Technical Mock Interviews"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/hr-mock-interviews",
+              "name": "HR Mock Interviews"
+            },
+            {
+              "id": "tech-interview/resume-and-placement-preparation/salary-and-offer-evaluation",
+              "name": "Salary and Offer Evaluation"
+            }
+          ]
+        },
+        {
+          "id": "tech-interview/company-specific-assessment-preparation",
+          "name": "Company-Specific Assessment Preparation",
+          "groupId": null,
+          "sourceLabels": [],
+          "notes": [
+            {
+              "text": "Different companies have different assessment patterns.",
+              "placement": "before"
+            }
+          ],
+          "subtopics": [
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/tcs-nqt",
+              "name": "TCS NQT"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/infosys-online-assessment",
+              "name": "Infosys Online Assessment"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/accenture-cognitive-and-technical-assessment",
+              "name": "Accenture Cognitive and Technical Assessment"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/capgemini-exceller-assessment",
+              "name": "Capgemini Exceller Assessment"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/deloitte-assessment",
+              "name": "Deloitte Assessment"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/cognizant-genc-assessment",
+              "name": "Cognizant GenC Assessment"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/wipro-assessment",
+              "name": "Wipro Assessment"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/persistent-systems-assessment",
+              "name": "Persistent Systems Assessment"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/ltimindtree-assessment",
+              "name": "LTIMindtree Assessment"
+            },
+            {
+              "id": "tech-interview/company-specific-assessment-preparation/company-specific-coding-rounds",
+              "name": "Company-Specific Coding Rounds"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

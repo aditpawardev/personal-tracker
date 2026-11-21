@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f4f7f5">
+  <title>PrepTrack — Syllabus Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#" aria-label="PrepTrack home">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24"><path d="M5 4.5h14v15H5z"/><path d="m8.5 12 2.2 2.2 4.8-5"/></svg>
+        </span>
+        <span>Prep<span>Track</span></span>
+      </a>
+
+      <nav class="section-nav" id="sectionNav" aria-label="Syllabus sections"></nav>
+
+      <div class="sidebar-footer">
+        <button class="ghost-button" id="themeButton" type="button">
+          <svg class="sun-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <span>Dark mode</span>
+          <span class="theme-toggle" aria-hidden="true"></span>
+        </button>
+        <button class="ghost-button reset-button" id="resetButton" type="button">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>
+          <span>Reset progress</span>
+        </button>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar">
+        <button class="icon-button menu-button" id="menuButton" type="button" aria-label="Open navigation">
+          <svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+        </button>
+        <div class="topbar-search">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6"/><path d="m16 16 4 4"/></svg>
+          <input id="searchInput" type="search" placeholder="Search topics and subtopics..." autocomplete="off">
+          <kbd>/</kbd>
+        </div>
+        <button class="icon-button" id="topThemeButton" type="button" aria-label="Toggle dark mode">
+          <svg viewBox="0 0 24 24"><path d="M20 15.5A8.5 8.5 0 0 1 8.5 4 8.5 8.5 0 1 0 20 15.5Z"/></svg>
+        </button>
+      </header>
+
+      <div class="content">
+        <div class="page-heading">
+          <div>
+            <p class="eyebrow">PLACEMENT PREPARATION</p>
+            <h1 id="pageTitle">Aptitude</h1>
+          </div>
+          <div class="heading-actions">
+            <span class="saved-state" id="savedState">
+              <svg viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></svg>
+              Saved locally
+            </span>
+          </div>
+        </div>
+
+        <section class="stats-grid" aria-label="Overall progress">
+          <article class="stat-card">
+            <span class="stat-icon mint"><svg viewBox="0 0 24 24"><path d="M5 4h14v16H5z"/><path d="m8.5 12 2.2 2.2 4.8-5"/></svg></span>
+            <div>
+              <p>Overall progress</p>
+              <strong id="overallPercent">0%</strong>
+            </div>
+            <div class="progress-ring" id="progressRing" style="--progress:0"><span></span></div>
+          </article>
+          <article class="stat-card">
+            <span class="stat-icon blue"><svg viewBox="0 0 24 24"><path d="M12 3 4 7v10l8 4 8-4V7z"/><path d="m4 7 8 4 8-4M12 11v10"/></svg></span>
+            <div>
+              <p>Subtopics done</p>
+              <strong><span id="completedCount">0</span> <small>of <span id="totalCount">0</span></small></strong>
+            </div>
+          </article>
+          <article class="stat-card">
+            <span class="stat-icon amber"><svg viewBox="0 0 24 24"><path d="M12 3v18M5 6h14M7 10h10M8.5 14h7"/></svg></span>
+            <div>
+              <p>Current section</p>
+              <strong id="sectionPercent">0%</strong>
+            </div>
+          </article>
+        </section>
+
+        <section class="topics-section">
+          <div class="toolbar">
+            <div class="filter-tabs" id="filterTabs" role="tablist" aria-label="Filter topics">
+              <button class="filter-tab active" type="button" data-filter="all" role="tab">All</button>
+              <button class="filter-tab" type="button" data-filter="in-progress" role="tab">In progress</button>
+              <button class="filter-tab" type="button" data-filter="completed" role="tab">Completed</button>
+            </div>
+            <button class="complete-section-button" id="completeSectionButton" type="button">
+              <svg viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></svg>
+              Complete section
+            </button>
+          </div>
+          <div class="topics-list" id="topicsList">
+            <div class="loading-state">Loading syllabus...</div>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+  <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <dialog id="resetDialog">
+    <form method="dialog">
+      <h2>Reset all progress?</h2>
+      <p>This will mark every subtopic as incomplete. This action cannot be undone.</p>
+      <div class="dialog-actions">
+        <button value="cancel" class="dialog-button">Cancel</button>
+        <button value="confirm" class="dialog-button danger">Reset progress</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="./app.js"></script>
+</body>
+</html>
